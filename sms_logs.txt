@@ -1,0 +1,220 @@
+admin|01540126586|Touhid biswas|2026-01-02 15:01:17|Success
+admin|01540126586|Touhid biswas|2026-01-02 15:01:17|{"status":"success","message":"Message sent successfully.","balance_left":995}
+admin|01540126586|Jej|2026-01-02 15:07:39|{"status":"success","message":"Message sent successfully.","balance_left":994}
+admin|01540126586|hiks|2026-01-02 15:10:44|Success
+admin|01540126586|জেলা|2026-01-02 15:22:02|Success
+admin|01540126586|জেলা|2026-01-02 15:22:05|{"status":"success","message":"Message sent successfully.","balance_left":992,"log_id":"SMS_6957e29ad291b5.09734483"}
+admin|01540126586|জেলা|2026-01-02 15:25:09|Success
+admin|01540126586|জেলা|2026-01-02 15:25:11|{"status":"success","message":"Message sent successfully.","balance_left":991,"log_id":"SMS_6957e3551a0318.67658192"}
+admin|01540126586|Fuck|2026-01-02 15:29:21|<!DOCTYPE html>
+<html style="height:100%">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<title> 404 Not Found
+</title><style>@media (prefers-color-scheme:dark){body{background-color:#000!important}}</style></head>
+<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Not Found
+</h2>
+<p>The resource requested could not be found on this server!</p>
+</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
+<br>Proudly powered by LiteSpeed Web Server<p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+
+admin|01540126586|Fuck|2026-01-02 15:30:50|Success
+admin|01540126586|Fuck|2026-01-02 15:30:50|{"status":"success","message":"Message sent.","Api_Owner":"@hadi_vai1","balance_left":990}
+admin|01540126586|Fuck|2026-01-02 15:40:02|{"status":"error","message":"Message contains blocked content."}
+admin|01540126586|Hadi|2026-01-02 15:40:10|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+admin|01540126586|Hadi|2026-01-02 15:40:39|Success
+admin|01540126586|Hadi|2026-01-02 15:40:39|{"status":"success","message":"Message sent.","Api_Owner":"@hadi_vai1","balance_left":989}
+admin|01540126586|Kire|2026-01-02 15:42:19|Success
+admin|01540126586|Kire|2026-01-02 15:42:19|{"status":"success","message":"Message sent.","Api_Owner":"@hadi_vai1","balance_left":988}
+admin|01540126586|Kire 2|2026-01-02 15:47:00|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2188}}
+admin|01540126586|Kire 2|2026-01-02 15:47:00|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":987}
+admin|01540126586|Fuck|2026-01-02 15:47:07|{"status":"error","message":"Message contains blocked content."}
+admin|01540126586|ভালো|2026-01-02 15:50:21|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2186}}
+admin|01540126586|ভালো|2026-01-02 15:50:21|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":986}
+admin|01540126586|How much?|2026-01-02 15:58:40|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2184}}
+admin|01540126586|How much?|2026-01-02 15:58:40|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":985}
+admin|01540126586|MH BULK SMS ✅|2026-01-04 11:09:26|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2186}}
+admin|01540126586|MH BULK SMS ✅|2026-01-04 11:09:26|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":984}
+admin|01700963187|কিরে মনিরুল🚬😂|2026-01-04 13:48:01|Success|Response from API: {"status":"error","message":"SMS sending failed"}
+admin|01700963187|কিরে মনিরুল🚬😂|2026-01-04 13:48:01|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":983}
+admin|01540126586|Hi|2026-01-04 15:47:33|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2184}}
+admin|01540126586|Hi|2026-01-04 15:47:33|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":982}
+admin|01836035794|Test ✅|2026-01-04 15:47:58|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2182}}
+admin|01836035794|Test ✅|2026-01-04 15:47:58|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":981}
+ashraf1|01754874355|Hi|2026-01-04 18:07:47|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2180}}
+ashraf1|01754874355|Hi|2026-01-04 18:07:47|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+ashraf1|01754874355|Hi bro|2026-01-04 18:08:14|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+bdpolice|01836146280|Developing এর নামে ভুয়া অ্যাপস সেল করার জন্য আপনার নামে মামলা করা হইছে।|2026-01-04 18:22:28|{"status":"error","message":"Message contains blocked content."}
+bdpolice|01306864875|DEV ZENTRIX IS BEST DEVLOPER|2026-01-04 18:23:07|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2178}}
+bdpolice|01306864875|DEV ZENTRIX IS BEST DEVLOPER|2026-01-04 18:23:07|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+bdpolice|01836146280|YOU ARE FAKE DEVELOPER|2026-01-04 18:23:47|{"status":"error","message":"Insufficient balance."}
+bdpolice|01836146280|YOU ARE FAKE DEVELOPER|2026-01-04 18:23:51|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+bdpolice|01836146280|YOU ARE FAKE DEVELOPER|2026-01-04 18:23:53|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+bdpolice|01836146280|YOU ARE FAKE DEVELOPER|2026-01-04 18:23:54|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+dxmunna|01762868614|হাই|2026-01-04 18:24:40|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2176}}
+dxmunna|01762868614|হাই|2026-01-04 18:24:40|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+Alhasan1122|01724563569|NAGAD|2026-01-04 18:24:40|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2176}}
+Alhasan1122|01724563569|NAGAD|2026-01-04 18:24:40|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+Rtxraja|01773546726|Testing|2026-01-04 18:39:09|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2174}}
+Rtxraja|01773546726|Testing|2026-01-04 18:39:09|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+mdaponmiah|01836035794|Hello Bkash Customer Care helpline Please contact|2026-01-04 18:40:26|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2172}}
+mdaponmiah|01836035794|Hello Bkash Customer Care helpline Please contact|2026-01-04 18:40:26|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+yamin|01346431125|Hey|2026-01-04 18:40:30|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2170}}
+yamin|01346431125|Hey|2026-01-04 18:40:30|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+noman238|01336369433|𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐎𝐋𝐃𝐄𝐑 𝐁𝐑𝐎𝐓𝐇𝐄𝐑|2026-01-04 18:41:14|Success|Response from API: {"status":"error","message":"SMS sending failed"}
+noman238|01336369433|𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐎𝐋𝐃𝐄𝐑 𝐁𝐑𝐎𝐓𝐇𝐄𝐑|2026-01-04 18:41:14|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+nadim063|Nadim|192884|2026-01-04 18:45:37|Success|Response from API: {"status":"error","message":"Invalid phone number. Must be Bangladeshi number (017XXXXXXXX)"}
+nadim063|Nadim|192884|2026-01-04 18:45:37|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+nadim063|01327351690|Hi|2026-01-04 18:45:55|{"status":"error","message":"Insufficient balance."}
+mehan456|01682328830|test message|2026-01-04 19:42:04|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2168}}
+mehan456|01682328830|test message|2026-01-04 19:42:04|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+mehan456|01682328830|test message|2026-01-04 19:42:23|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+ayonkazi01@gmail.com|01736761813|Hi|2026-01-04 22:35:36|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2166}}
+ayonkazi01@gmail.com|01736761813|Hi|2026-01-04 22:35:36|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+thanosx|01932629175|Hlw|2026-01-04 23:54:00|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2164}}
+thanosx|01932629175|Hlw|2026-01-04 23:54:00|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+adriyan|01714595419|Hi kmn achu|2026-01-05 00:42:37|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2162}}
+adriyan|01714595419|Hi kmn achu|2026-01-05 00:42:37|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+adriyan|01714595419|Hi kmn achu|2026-01-05 00:42:55|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+adriyan|01714595419|Hi kmn achu|2026-01-05 00:43:05|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Neon_Method|01872588652|409245|2026-01-05 02:00:11|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2162}}
+Neon_Method|01872588652|409245|2026-01-05 02:00:11|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+Hanif|01850830745|Hi|2026-01-05 02:23:53|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2160}}
+Hanif|01850830745|Hi|2026-01-05 02:23:53|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+Hanif|01850830745|Hi|2026-01-05 02:24:11|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Hanif|01850830745|Hi|2026-01-05 02:24:13|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Hanif|01850830745|Hi|2026-01-05 02:24:15|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Hanif|01850830745|Hi Hanif|2026-01-05 02:24:25|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+manik1|01920740237|Hello brother|2026-01-05 02:38:52|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2158}}
+manik1|01920740237|Hello brother|2026-01-05 02:38:52|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+helpbdpranto@gmail.com|01328984971|i love you|2026-01-05 03:52:48|{"status":"error","message":"Message contains blocked content."}
+helpbdpranto@gmail.com|01328984971|i love you|2026-01-05 03:53:08|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+helpbdpranto@gmail.com|01789626728|i love you|2026-01-05 03:53:58|{"status":"error","message":"Message contains blocked content."}
+Nai|01732099563|Hi|2026-01-05 04:28:19|{"status":"error","message":"Insufficient balance."}
+Nai|01732099563|Hi|2026-01-05 04:28:30|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+raj36|01804541986|https://staging.zatiqeasy.com/shop/169694|2026-01-05 04:40:53|{"status":"error","message":"Insufficient balance."}
+hasan|01717943468|কিরে কি অবস্থা।  ভালোই নি।  কালকে কাজে আসিস|2026-01-05 05:10:13|{"status":"error","message":"Insufficient balance."}
+hasan|01717943468|কিরে কি অবস্থা।  ভালোই নি।  কালকে কাজে আসিস|2026-01-05 05:10:17|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+hasan|01717943468|কিরে কি অবস্থা।  ভালোই নি।  কালকে কাজে আসিস|2026-01-05 05:10:18|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+SABBIRAHMAD|01866459922|Assalamualaikum|2026-01-05 08:07:39|{"status":"error","message":"Insufficient balance."}
+Ra|01700628292|আসসালামু আলাইকুম ওয়া রাহমাতুল্লাহি ওয়া বারাকাতুহু|2026-01-05 08:19:40|{"status":"error","message":"Insufficient balance."}
+dxrakib|01608818307|your phone is Hacked|2026-01-05 08:48:03|{"status":"error","message":"Insufficient balance."}
+dxmunna|01608818307|Your Phone is Hacked|2026-01-05 08:49:06|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2156}}
+dxmunna|01608818307|Your Phone is Hacked|2026-01-05 08:49:06|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+rakib|01894305020|Oi|2026-01-05 08:58:45|{"status":"error","message":"Insufficient balance."}
+rakib|01785619435|Oi|2026-01-05 08:59:03|{"status":"error","message":"Insufficient balance."}
+rakib|01785619435|Oi|2026-01-05 08:59:05|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+rakib|01785619435|Oi|2026-01-05 08:59:06|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Arafat|01611318155|arafat|2026-01-05 14:35:49|{"status":"error","message":"Insufficient balance."}
+Nipu|01815230837|Hello fahim|2026-01-05 17:19:18|{"status":"error","message":"Insufficient balance."}
+manik1|29929|Wksn|2026-01-05 17:41:07|{"status":"error","message":"Insufficient balance."}
+Akash|01914982840|Hi bc|2026-01-05 18:19:17|{"status":"error","message":"Insufficient balance."}
+Alif25802|01942112587|Alif|2026-01-05 19:51:19|{"status":"error","message":"Insufficient balance."}
+@saufulmn|01835926705|MESSAGE_CONTENT|2026-01-06 04:17:58|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2156}}
+@saufulmn|01835926705|Bshs|2026-01-06 04:18:19|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+@saufulmn|01835926705|Bshs|2026-01-06 04:18:25|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+@saufulmn|01835926705|Bshs|2026-01-06 04:18:26|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+@saufulmn|01835926705|Bshs|2026-01-06 04:18:27|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+admin|01857088196|Test ✅|2026-01-06 06:59:07|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2154}}
+admin|01857088196|Test ✅|2026-01-06 06:59:07|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":983}
+admin|01857088196|Test ✅|2026-01-06 06:59:09|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+admin|01540126586|Test ✅|2026-01-06 07:01:32|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2152}}
+admin|01540126586|Test ✅|2026-01-06 07:01:32|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":982}
+notcryptoz|01887613544|hi|2026-01-06 09:33:24|{"status":"error","message":"Insufficient balance."}
+ztzihad|01873997362|Kmn asos|2026-01-06 09:56:44|{"status":"error","message":"Insufficient balance."}
+ztzihad|+8801873997362|Kmn asos|2026-01-06 09:57:11|{"status":"error","message":"Insufficient balance."}
+Touhid70|01612463703|Hi|2026-01-06 13:01:09|{"status":"error","message":"Insufficient balance."}
+index.php|01972311577|OK|2026-01-06 14:58:01|{"status":"error","message":"Insufficient balance."}
+Targeet|01973999422|জান কল দেওয় প্লিজ|2026-01-06 15:46:07|{"status":"error","message":"Insufficient balance."}
+sakib|01932566013|Hi|2026-01-06 16:38:58|{"status":"error","message":"Insufficient balance."}
+admin|01918689722|আপনার একাউন্ট এ ৩৩০০০ টাকা জমা হয়েছে।
+হাদি|2026-01-07 13:15:33|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2150}}
+admin|01918689722|আপনার একাউন্ট এ ৩৩০০০ টাকা জমা হয়েছে।
+হাদি|2026-01-07 13:15:33|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":981}
+hrmishu|01753240683|Hi kmn achen?|2026-01-07 14:32:52|{"status":"error","message":"Insufficient balance."}
+hrmishu|01753240683|Hi kmn achen?|2026-01-07 14:33:21|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+rafi|01797603693|Kare kik dili|2026-01-07 16:17:51|{"status":"error","message":"Insufficient balance."}
+SABBIRAHMAD|01866459922|Assalamualaikum|2026-01-08 22:33:16|{"status":"error","message":"Insufficient balance."}
+@saufulmn|01852524252|Bsbsn|2026-01-11 06:59:42|{"status":"error","message":"Insufficient balance."}
+admin|01712311577|Hi|2026-01-11 10:12:57|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2150}}
+admin|01712311577|Hi|2026-01-11 10:12:57|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":980}
+John|01759149326|Hahah|2026-01-13 13:35:39|{"status":"error","message":"Insufficient balance."}
+admin|01540126586|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:02:31|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2152}}
+admin|01540126586|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:02:31|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":979}
+admin|01556291273|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:03:34|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2152}}
+admin|01556291273|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:03:34|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":978}
+admin|01540126586|হিসাব নিকাশ, পরীক্ষার ফি: ৮০০,বেতন: ২৬০০ টাকা মাত্র।পরীক্ষার ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:05:34|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2150}}
+admin|01540126586|হিসাব নিকাশ, পরীক্ষার ফি: ৮০০,বেতন: ২৬০০ টাকা মাত্র।পরীক্ষার ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:05:34|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":977}
+admin|01556291273|হিসাব নিকাশ, পরীক্ষার ফি: ৮০০,বেতন: ২৬০০ টাকা মাত্র।পরীক্ষার ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:05:43|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2148}}
+admin|01556291273|হিসাব নিকাশ, পরীক্ষার ফি: ৮০০,বেতন: ২৬০০ টাকা মাত্র।পরীক্ষার ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:05:43|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":976}
+admin|01795437950|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:14:52|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2146}}
+admin|01795437950|আগামী 20/01/2026 দুপুর 1:30 থেকে অর্ধবার্ষিক পরীক্ষা। পরীক্ষা ফি ও যাবতীয় পাওনাদি পরিশোধ করে প্রবেশপত্র গ্রহণ করার জন্য বলা হলো।
+ডাঃ আবুল হোসেন কলেজ, রাজবাড়ী।|2026-01-15 02:14:52|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":975}
+Asifshimul520|01995388091|Hi|2026-01-17 01:41:33|{"status":"error","message":"Insufficient balance."}
+Ing|01876230030|Fujfjcjv|2026-01-17 05:52:59|{"status":"error","message":"Insufficient balance."}
+Ing|01876230030|Fujfjcjv|2026-01-17 05:53:06|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+Kokhogo|01753240683|Kmn achen|2026-01-17 15:02:43|{"status":"error","message":"Insufficient balance."}
+mazhar1fir|01725113394|44|2026-01-17 18:10:30|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2144}}
+syko_corp|01819178528|Pgla|2026-01-18 00:11:56|{"status":"error","message":"Insufficient balance."}
+admin|01706369457|01791234227|2026-01-18 11:46:45|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2142}}
+admin|01706369457|01791234227|2026-01-18 11:46:45|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":974}
+Kkk|01891805551|Hi|2026-01-18 13:54:28|{"status":"error","message":"Insufficient balance."}
+admin|01795437950|Hi suborna|2026-01-19 07:23:32|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2140}}
+admin|01795437950|Hi suborna|2026-01-19 07:23:32|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":973}
+admin|01319610316|কি অবস্থা|2026-01-19 07:36:39|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2138}}
+admin|01319610316|কি অবস্থা|2026-01-19 07:36:39|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":972}
+SABBIRAHMAD|01866459922|আসসালামুয়ালাইকুম|2026-01-22 08:48:50|{"status":"error","message":"Insufficient balance."}
+admin|01540126586|ভালো আছো?|2026-01-22 13:28:59|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2132}}
+admin|01540126586|ভালো আছো?|2026-01-22 13:28:59|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":971}
+admin|01540126586|Jd|2026-01-23 07:10:10|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2136}}
+admin|01540126586|Jd|2026-01-23 07:10:10|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":970}
+admin|01540126586|Error|2026-01-23 10:31:47|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2134}}
+admin|01921047549|ভালো করে exam দিয়ো স্বাধীন।|2026-01-26 03:15:59|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2136}}
+admin|01921047549|ভালো করে exam দিয়ো স্বাধীন।|2026-01-26 03:15:59|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":3}
+admin|01761472951|তোর কপালে অনেক বিপদ, তোর bf এর নাম R দিয়ে না? শুধু দেখ আমি কি করতে পারি।|2026-01-26 10:36:04|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2136}}
+admin|01761472951|তোর কপালে অনেক বিপদ, তোর bf এর নাম R দিয়ে না? শুধু দেখ আমি কি করতে পারি।|2026-01-26 10:36:04|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":2}
+admin|01761472951|কখনও ভালো থাকতে পারবি না, আমি এখন আর কাউকে মানব না|2026-01-26 10:36:32|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+admin|01761472951|আশা করি তুই জানিস আমি কি? Ataw জানিস আমি কিসের কথা বলতেছি,|2026-01-26 10:37:10|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2134}}
+admin|01761472951|আশা করি তুই জানিস আমি কি? Ataw জানিস আমি কিসের কথা বলতেছি,|2026-01-26 10:37:10|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":1}
+admin|01761472951|সময় আছে ব্লক খুলে মাফ চা, মাফ চাইলেও তোর অবস্থা খুবই খারাপ|2026-01-26 10:37:42|{"status":"error","message":"Number rate limit exceeded. Try again later."}
+TorAbba2|01771523431|Dghjhh|2026-01-28 00:25:27|{"status":"error","message":"Insufficient balance."}
+admin|01569111466|Kire sala|2026-01-30 12:30:28|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2140}}
+admin|01569111466|Kire sala|2026-01-30 12:30:28|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":0}
+joty|Dbdb|Hfjf|2026-01-30 12:33:25|{"status":"error","message":"Insufficient balance."}
+admin|PHONE_NUMBER|MESSAGE_CONTENT|2026-02-04 05:58:01|Success|Response from API: {"status":"error","message":"Invalid phone number. Must be Bangladeshi number (017XXXXXXXX)"}
+admin|01540126506|Hd|2026-02-04 07:26:07|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2138}}
+admin|01540126506|Hd|2026-02-04 07:26:07|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":198}
+admin|01540126586|Kire|2026-02-04 08:07:55|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2136}}
+admin|01540126586|Kire|2026-02-04 08:07:55|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":197}
+admin|8801540126586|আপনার ডোনেশন 10 টাকা সফল হয়েছে। ট্রানজেকশন আইডি: Test sms। ধন্যবাদ।|2026-02-04 08:28:13|Success|Response from API: {"status":"error","message":"Invalid phone number. Must be Bangladeshi number (017XXXXXXXX)"}
+admin|01540126586|Dh|2026-02-04 08:29:51|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2134}}
+admin|01540126586|Dh|2026-02-04 08:29:51|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":195}
+admin|8801540126586|আপনার ডোনেশন 10 টাকা সফল হয়েছে। ট্রানজেকশন আইডি: Test sms। ধন্যবাদ।|2026-02-04 08:33:34|Success|Response from API: {"status":"error","message":"Invalid phone number. Must be Bangladeshi number (017XXXXXXXX)"}
+admin|01540126586|আপনার ডোনেশন 10 টাকা সফল হয়েছে। ট্রানজেকশন আইডি: Test sms। ধন্যবাদ।|2026-02-04 08:40:42|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2132}}
+admin|01540126586|Bs|2026-02-04 08:41:56|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2130}}
+admin|01540126586|Bs|2026-02-04 08:41:56|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":192}
+admin|01704727354|আপনার ডোনেশন 10 টাকা সফল হয়েছে। ট্রানজেকশন আইডি: Test। ধন্যবাদ।|2026-02-04 13:44:11|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2130}}
+admin|01814830800|Shanjida Tumi na valo plz ekta bar amar kotha suno ekta plz tomr ami koto kotha rakhsi tumi amar ekta kotha rakhba na? Ekta kotha ontoto rakho? Tomr asa lagbo na just ekta bar amar kotha suno plz tumi amre koto somoy koto kotha bolco ami rakhar try korsi rakhsio tumi amar ekta kotha ontoto rakho? Plz shanju? Ekta kotha rakho ekta kotha suno sudo ekta knock dio.... 
+Tomr aste hobe tumi tar hoyei thaiko tar poreo ami tomr opekkhay thakbo sara jibon tumi na amre kotha dico? Tumi jodi na tar poreo ekta kotha ontoto amr suino jan Ei request ta onototo rakho plz|2026-02-07 12:55:13|Success|Response from API: {"status":"error","message":"Message must be between 1-500 characters"}
+admin|01814830800|Shanjida Tumi na valo plz ekta bar amar kotha suno ekta plz tomr ami koto kotha rakhsi tumi amar ekta kotha rakhba na? Ekta kotha ontoto rakho? Tomr asa lagbo na just ekta bar amar kotha suno plz tumi amre koto somoy koto kotha bolco ami rakhar try korsi rakhsio tumi amar ekta kotha ontoto rakho? Plz shanju? Ekta kotha rakho ekta kotha suno sudo ekta knock dio.... 
+Tomr aste hobe tumi tar hoyei thaiko tar poreo ami tomr opekkhay thakbo sara jibon tumi na amre kotha dico? Tumi jodi na tar poreo ekta kotha ontoto amr suino jan Ei request ta onototo rakho plz|2026-02-07 12:55:13|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":190}
+admin|01540126586|Hkc|2026-02-07 13:12:27|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2132}}
+admin|01540126586|Hkc|2026-02-07 13:12:27|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":189}
+sarwarsayem|01906463334|Hlw|2026-02-08 02:34:13|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2130}}
+sarwarsayem|01906463334|Hlw|2026-02-08 02:34:13|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":2}
+Trybunalski|212763027699|k|2026-02-08 02:40:06|{"status":"error","message":"Insufficient balance."}
+a5875|01856057857|Hello|2026-02-08 02:42:36|{"status":"error","message":"Insufficient balance."}
+admin|01791234227|আমি সুরাইয়া, আমাদের কলেজে আসো|2026-02-08 07:02:34|Success|Response from API: {"status":"success","message":"SMS sent successfully","data":{"points_used":2,"remaining_points":2128}}
+admin|01791234227|আমি সুরাইয়া, আমাদের কলেজে আসো|2026-02-08 07:02:34|{"status":"success","message":"Message sent successfully.","Api_Owner":"@hadi_vai1","balance_left":188}

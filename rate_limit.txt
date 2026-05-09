@@ -1,0 +1,4 @@
+{
+    "number_limit": 1,
+    "ip_limit": 0
+}
