@@ -1,2 +1,0 @@
-win_rate:1
-speed:2
